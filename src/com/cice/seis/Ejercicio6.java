@@ -17,7 +17,7 @@ public class Ejercicio6 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-       /* int a = 16.5; esto no puede asignarse a un entero, error de compilación
+        /*int a = 16.5; //esto no puede asignarse a un entero, error de compilación
          System.out.println(a);*/
     }
     
